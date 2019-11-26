@@ -4,6 +4,7 @@
 #include <unistd.h>
 #include <string.h>
 #include "voidQueue.h"
+//added comment
 
 Queue* queue;
 pthread_mutex_t m = PTHREAD_MUTEX_INITIALIZER;
